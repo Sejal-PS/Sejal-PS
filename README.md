@@ -56,6 +56,10 @@
 - Jupyter Notebook
 - VS Code
 - Google Colab
+- Spyder
+- Atlas
+- Map Creator
+- PyCharm 
 
 ---
 
@@ -102,7 +106,7 @@
 
 # 📜 Certifications
 
-🎓 Mastering in Data Science – 3RI Technologies  
+🎓 Mastering in Data Science-"Advanced Certification in Data Science and AI" – 3RI Technologies  
 
 🎓 Deloitte Australia Data Analytics Job Simulation – Forage
 
