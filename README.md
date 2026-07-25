@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Data Analyst & Aspiring Data Scientist from Pune, India  
+🎓 Data science trainer, Data Analyst &  Data Scientist from Pune, India  
 
 📊 Passionate about Data Analytics, Machine Learning, AI, and Dashboard Development  
 
