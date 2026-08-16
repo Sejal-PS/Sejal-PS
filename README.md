@@ -114,9 +114,13 @@
 
 # 📊 GitHub Stats
 
-![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sejal-PS&show_icons=true&theme=radical)
+<p align="center">
+  <img src="./profile/stats.svg" alt="Sejal's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal-PS&layout=compact&theme=radical)
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 
 
