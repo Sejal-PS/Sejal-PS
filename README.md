@@ -1,42 +1,56 @@
-Hi there 👋 I'm Sejal Patil
-🚀 Data Scientist | Data Science Mentor | AI/ML Trainer | Linux Trainer
+Hi, I'm Sejal Patil 👋
+Data Science Trainer | Corporate Technical Trainer | Data Analytics Professional
 
-📍 Pune, Maharashtra, India
+📍 Pune, Maharashtra, India | Open to remote opportunities across India
 
-I’m a Data Scientist and Mentor passionate about helping learners build practical skills in Data Science, Machine Learning, AI, Python, SQL, Power BI, and Linux.
+I am a data science and analytics professional with experience in technical training, curriculum development, data analysis, and learner mentoring. I enjoy simplifying technical concepts through hands-on exercises, real-world projects, and practical problem-solving.
 
-I focus on hands-on learning, real-world projects, problem-solving, and career-oriented skills.
+As a Data Science Trainer, I have delivered instructor-led training in Python, MySQL, Power BI, Data Analytics, and Linux, supporting learners through structured, industry-oriented learning experiences.
 
-🎯 What I Teach
-🐍 Python & SQL
-📊 Data Analytics & Power BI
+👩‍🏫 Training Experience
+Delivered 10+ training batches and supported 150+ active learners.
+Achieved 100% positive feedback across completed training batches.
+Developed training materials, practical exercises, assessments, and learning resources.
+Experienced in learner mentoring, lesson planning, and LMS administration.
+🛠️ Technical Skills
+
+Programming & Data Analysis
+
+Python, SQL, MySQL, Pandas, NumPy, Statistics, EDA
+
+Business Intelligence
+
+Power BI, DAX, Power Query, Tableau, Advanced Excel
+
+Machine Learning & AI
+
+Scikit-learn, Regression, Classification, Random Forest, TensorFlow, Keras, CNN, ANN
+
+Tools & Platforms
+
+Jupyter Notebook, Google Colab, VS Code, Git, GitHub, Linux
+🚀 Featured Projects
+📊 Data Analytics
+Customer Churn Prediction — Power BI
+SQL Interview Practice Questions
 🤖 Machine Learning & AI
-🧠 Deep Learning & NLP
-🐧 Linux & Shell Basics
-📈 Data Visualization
-🚀 End-to-End Data Science Projects
-🛠️ Tech Stack
-
-Python • SQL • Pandas • NumPy • Scikit-learn • TensorFlow • Keras • Power BI • Tableau • Linux • Git • GitHub
-
-📂 Featured Projects
-🔹 Telco Customer Churn Prediction — Machine Learning
-🔹 Email Spam Classification — NLP & ML
-🔹 MNIST Digit Classification — Deep Learning
-🔹 Customer Churn Dashboard — Power BI
-🔹 Students Marks Analyzer — Python
-👩‍🏫 My Approach
+Telco Customer Churn Prediction
+Email Spam Classification System
+MNIST Handwritten Digit Classification — ANN
+🐍 Python Teaching Projects
+Students Marks Analyzer
+Python for Data Science — Learning Resources
+🎯 My Training Approach
 
 Learn → Practice → Build → Analyze → Explain
 
-I help aspiring professionals turn concepts into practical skills and real-world projects.
+I believe effective technical training combines conceptual clarity, guided practice, project-based learning, and continuous feedback.
 
 🤝 Let's Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/sejal-patil-s/
-
+💼 LinkedIn: Sejal Patil
+💻 GitHub: Sejal-PS
 📧 Email: SejalPatilSp24@hotmail.com
 
-📩 Available for: Data Science Mentoring • AI/ML Training • Linux Training • Freelance Projects • Collaboration
+Open to: Data Science Trainer, Corporate Technical Trainer, Data Analytics Trainer, mentoring, and relevant freelance opportunities.
 
-⭐ Keep Learning. Keep Building. Keep Growing. 🚀
+⭐ Thanks for visiting my profile. Let's learn, build, and grow together!
